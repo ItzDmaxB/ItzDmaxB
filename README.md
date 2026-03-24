@@ -8,11 +8,16 @@
 Hellu im DmaxB, im a minecraft nerd who likes to program some websites on the side when i feel like it.
 
 ## My projects:
+- ### MC23hub:
+  The new website for my private Minecraft server MC23, some might say version 2 of iSite. A big remake of iSite that adds a lot of functionality.
+
+  🔗 Link: https://mc23hub.github.io
+
 - ### iSite:
   **iSite only works on computer!**
   iSite is a website for my private Minecraft server MC23. Here you can do many things related to the server and more features coming soon including a big update coming around spring 2026. iSite is primarily made for the people playing on MC23.
 
-  🔗 Link: https://dmaxb13.github.io/iSite/
+  🔗 Link: https://itzdmaxb.github.io/iSite/
 
 - ### DmaxBs Mics and Cams:
     Source code/files for a little resource pack "adding" a mic, a cam and a trophy, all based on Eurovision 2024.
