@@ -5,7 +5,7 @@
 <img width="52" height="52" alt="js" src="https://github.com/user-attachments/assets/098e01d9-7c31-4bab-91a3-f2b34a4addda" />
 
 # Hi there!
-Hellu im DmaxB, im a minecraft nerd who likes to program some websites on the side when i feel like it.
+Hellu im DmaxB, im a minecraft nerd who likes to program some websites on the side when i feel like it. **NOTE!** MC23hub is primarily made for the people playing on MC23.
 
 ## My projects:
 - ### MC23hub:
@@ -15,7 +15,7 @@ Hellu im DmaxB, im a minecraft nerd who likes to program some websites on the si
 
 - ### iSite:
   **iSite only works on computer!**
-  iSite is a website for my private Minecraft server MC23. Here you can do many things related to the server and more features coming soon including a big update coming around spring 2026. iSite is primarily made for the people playing on MC23.
+  iSite is a website for my private Minecraft server MC23. Here you can do many things related to the server and more features coming soon including a big update coming around spring 2026 (Already released, MC23hub!). iSite is primarily made for the people playing on MC23.
 
   🔗 Link: https://itzdmaxb.github.io/iSite/
 
