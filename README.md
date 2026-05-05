@@ -5,11 +5,11 @@
 <img width="52" height="52" alt="js" src="https://github.com/user-attachments/assets/098e01d9-7c31-4bab-91a3-f2b34a4addda" />
 
 # Hi there!
-Hellu im DmaxB, im a minecraft nerd who likes to program some websites on the side when i feel like it. **NOTE!** MC23hub is primarily made for the people playing on MC23.
+Hellu I'm DmaxB, a minecraft nerd who likes to program some websites on the side when I feel like it.
 
 ## My projects:
 - ### MC23hub:
-  The new website for my private Minecraft server MC23, some might say version 2 of iSite. A big remake of iSite that adds a lot of functionality.
+  The new website for my private Minecraft server MC23, some might say version 2 of iSite. A big remake of iSite that adds a lot of functionality. **NOTE!** MC23hub is primarily made for the people playing on MC23.
 
   🔗 Link: https://mc23hub.github.io
 
@@ -27,7 +27,7 @@ Hellu im DmaxB, im a minecraft nerd who likes to program some websites on the si
 
 
 ## What languages do i program in?
-Well im mostly a web developer so i program in...
+Well I'm mostly a web developer so I program in...
 - **HTML**
 - **CSS**
 - **JavaScript** (only when neccesary)
