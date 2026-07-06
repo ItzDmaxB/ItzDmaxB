@@ -19,7 +19,7 @@ Hellu I'm DmaxB, a minecraft nerd who likes to program some websites on the side
 
   🔗 Link: https://itzdmaxb.github.io/iSite/
 
--### BannerWriter:
+- ### BannerWriter:
   A Minecraft datapack that makes the proccess of writing using banners much easier. Only source files are available on GitHub, download it on modrinth: https://modrinth.com/datapack/bannerwriter
 
   🔗 Link: https://github.com/ItzDmaxB/BannerWriter
