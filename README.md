@@ -32,7 +32,8 @@ Hellu I'm DmaxB, a minecraft nerd who likes to program some websites on the side
 
 
 ## What languages do i program in?
-Well I'm mostly a web developer so I program in...
 - **HTML**
 - **CSS**
 - **JavaScript** (only when neccesary)
+- **MCFUNCTION**
+
