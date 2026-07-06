@@ -19,6 +19,11 @@ Hellu I'm DmaxB, a minecraft nerd who likes to program some websites on the side
 
   🔗 Link: https://itzdmaxb.github.io/iSite/
 
+-### BannerWriter:
+  A Minecraft datapack that makes the proccess of writing using banners much easier. Only source files are available on GitHub, download it on modrinth: https://modrinth.com/datapack/bannerwriter
+
+  🔗 Link: https://github.com/ItzDmaxB/BannerWriter
+
 - ### DmaxBs Mics and Cams:
     Source code/files for a little resource pack "adding" a mic, a cam and a trophy, all based on Eurovision 2024.
     **Note!** Its only in alpha and in the moment i dont have plans to continue working on the pack, maybe someday.
