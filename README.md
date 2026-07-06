@@ -36,4 +36,4 @@ Hellu I'm DmaxB, a minecraft nerd who likes to program some websites on the side
 - **CSS**
 - **JavaScript** (only when neccesary)
 - **MCFUNCTION**
-
+- **JSON** (only in Minecraft datapacks)
