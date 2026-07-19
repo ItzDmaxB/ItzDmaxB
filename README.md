@@ -1,4 +1,5 @@
-<img width="1500" height="500" alt="DmaxB cover" src="https://github.com/user-attachments/assets/b9734be6-ead6-4996-a9ab-05b5fe96512b" />
+<img width="2560" height="854" alt="Twitch" src="https://github.com/user-attachments/assets/6d2a8ec0-0d4f-44c8-8059-da3e966de79d" />
+
 
 <img width="52" height="52" alt="html" src="https://github.com/user-attachments/assets/eafc2b15-0a21-46d5-a8fd-2ac91f7dfdfc" />
 <img width="52" height="52" alt="css" src="https://github.com/user-attachments/assets/4d9303be-f083-4661-b092-53dc6111fc6e" />
