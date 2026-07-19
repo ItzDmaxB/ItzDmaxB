@@ -1,4 +1,5 @@
-<img width="2560" height="854" alt="Twitch" src="https://github.com/user-attachments/assets/6d2a8ec0-0d4f-44c8-8059-da3e966de79d" />
+<img width="2560" height="854" alt="Twitch" src="https://github.com/user-attachments/assets/7dfaf176-3117-4f05-ac59-6155ea85bafa" />
+
 
 
 <img width="52" height="52" alt="html" src="https://github.com/user-attachments/assets/eafc2b15-0a21-46d5-a8fd-2ac91f7dfdfc" />
